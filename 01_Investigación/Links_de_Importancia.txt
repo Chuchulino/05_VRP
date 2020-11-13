@@ -1,0 +1,9 @@
+https://www.ibm.com/ar-es/products/ilog-cplex-optimization-studio
+
+https://www.youtube.com/watch?v=L957Y5DxCAo
+
+https://unisolutionsnews.wordpress.com/2016/08/22/que-es-el-vrp-y-cuales-son-sus-variantes/
+
+https://github.com/ashishpatel26/Amazing-Collection-Vehicle-Routing-Problem
+
+https://github.com/anirudhpillai/cvrptw?files=1
